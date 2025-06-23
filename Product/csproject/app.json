@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "BrownFinal",
-    "slug": "BrownFinal",
+    "name": "csproject",
+    "slug": "csproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "brownfinal",
+    "scheme": "csproject",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
